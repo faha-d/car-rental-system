@@ -28,11 +28,11 @@ The **Car Rental System** is a modular, console-based application developed in C
    ```
 2. Compile the program:  
    ```sh
-   gcc main.c admin/*.c user/*.c -o car_rental
+   gcc main.c admin/*.c user/*.c -o CarRentalSystem
    ```
 3. Run the program:  
    ```sh
-   ./car_rental
+   ./CarRentalSystem
    ```
 4. Choose either **Admin** or **User** mode to perform actions.  
 
